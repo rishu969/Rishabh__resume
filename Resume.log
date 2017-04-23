@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  24 APR 2017 04:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  24 APR 2017 04:34
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -368,18 +368,19 @@ or  <return>  to continue without it.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Rishabh.jpg>]
 (Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 3111 strings out of 493333
- 43919 string characters out of 3139197
+ 3120 strings out of 493333
+ 44028 string characters out of 3139197
  118188 words of memory out of 3000000
- 6621 multiletter control sequences out of 15000+200000
- 6974 words of font info for 25 fonts, out of 3000000 for 9000
+ 6629 multiletter control sequences out of 15000+200000
+ 7281 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,7n,31p,234b,278s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Resume.pdf (1 page, 59523 bytes).
+ 39i,7n,33p,234b,278s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Resume.pdf (1 page, 68487 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
